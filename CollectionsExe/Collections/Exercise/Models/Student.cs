@@ -45,7 +45,7 @@ namespace CollectionsExe.Collections.Exercise.Models
             });
             list.Add(new Student()
             {
-                Name = "Shai",
+                Name = "Shay",
                 Kita = 2
             });
             list.Add(new Student()
